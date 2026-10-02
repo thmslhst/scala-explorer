@@ -1,0 +1,36 @@
+! shaka10.scl
+10-tone scale tempered with 2.3.35.11.29.41 shaka
+! Shaka is short for 'shaftesburismic-kalismic'
+! 48 & 70 & 176
+! Comma basis: 841/840, 1189/1188, 1681/1680
+! Constrained tuning to bring all the intervals
+! within ~0.6c of 41-odd-limit
+! Eigenmonzos: 2/1, 319/41, 1015/33
+! Trivalent, step pattern ssmsL
+10
+!
+102.211002
+204.422004
+327.021867
+429.232869
+600.0
+702.211002
+804.422004
+927.021867
+1029.232869
+2/1
+!
+! ! preshaka10.scl
+! 2.3.35.11.29.41 shaka[10] transversal
+! 10
+! !
+! 35/33
+! 9/8
+! 29/24
+! 41/32
+! 41/29
+! 3/2
+! 35/22
+! 41/24
+! 29/16
+! 2/1

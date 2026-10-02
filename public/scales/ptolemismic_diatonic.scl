@@ -1,0 +1,16 @@
+! ptolemismic_diatonic.scl
+Ptolemismic diatonic as a 3-SN scale
+! 7-note No-7 Ptolemismic tempered Step-Nested Scale
+! SNS (2/1, 3/2, 6/5: 100/99)[7]
+! TE tuned
+! 1L 4M 2S = (~9/8, 10/9~11/10, 27/25~12/11) = (209.7786c, 174.0549c, 146.6352c)
+! Mode 0: msmLmsm
+7
+!
+174.055
+320.69
+494.745
+704.524
+878.579
+1025.214
+1199.269
