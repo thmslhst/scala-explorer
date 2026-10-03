@@ -248,7 +248,7 @@ export default function ScalaExplorer({ index }: { index: ScaleEntry[] }) {
     <div className="grid min-h-dvh grid-cols-[minmax(0,1fr)] font-mono text-[11px] leading-[1.45] lg:h-dvh lg:grid-cols-[19rem_minmax(0,1fr)]">
       <aside className="flex h-[45dvh] min-h-0 flex-col border-b border-(--ink)/25 lg:h-auto lg:border-r lg:border-b-0">
         <div className="flex flex-col gap-2 p-3">
-          <h1 className="m-0 text-[11px] font-normal uppercase tracking-[.2em]">Scala explorer</h1>
+          <h1 className="m-0 text-[11px] font-normal tracking-[.2em]">Scala Explorer</h1>
           <input
             type="search"
             data-browse

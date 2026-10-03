@@ -1,4 +1,4 @@
-# Scala explorer
+# Scala Explorer
 
 Browse the [Scala archive](https://www.huygens-fokker.org/scala/) of tunings —
 5,233 `.scl` files. Each one is shown as a radial graph, a list of facts, a

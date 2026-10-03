@@ -1,6 +1,6 @@
 ## What this is
 
-Scala explorer: a browser for the Scala archive of tunings (`.scl` files). One
+Scala Explorer: a browser for the Scala archive of tunings (`.scl` files). One
 file at a time, with its radial graph, its facts, a table of degrees and a
 keyboard to play it on. Extracted from thmslhst.com; one of the tools listed on
 its lab page. Public, MIT.
